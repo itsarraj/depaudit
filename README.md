@@ -8,6 +8,12 @@ Rust backends, bun/npm-based Expo mobile apps, one Node/Express service)
 needs all three run separately today. This runs one query batch across
 whatever mix of lockfiles you point it at, across six ecosystems.
 
+## Installation
+
+```sh
+cargo install --path .
+```
+
 ## Usage
 
 ```bash
